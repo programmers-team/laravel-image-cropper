@@ -1,0 +1,12 @@
+Home Page:
+
+Step 1) Inteface to upload image
+
+* validate image file (JPEG  |	PNG | GIF)
+* uploading file to server using ajax (show progress bar while uploading)
+
+Step 2) Show multiple input fields to insert width and height of the image
+
+* user can add multiple dimention of image by clicking "+" button
+
+Step 3) User can see the auto cropped images and able to download the images
